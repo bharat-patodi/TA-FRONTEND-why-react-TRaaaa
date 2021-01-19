@@ -221,3 +221,12 @@ input[type="submit"] {
 .fa-ticket-alt {
   margin-right: 10%;
 }
+
+.actions {
+  display: inline-block;
+}
+
+.movie-status {
+  margin-left: 4rem;
+  display: inline-block;
+}
