@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Woman sportwear",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "date":"December 18, 2017",
+        "image" : "blog-image2.jpg",
+        "altText" : "Blog 2",
+        "linkToArticle" : "https://www.github.com"
+    },
+    {
+        "title": "How to find beautiful workspace?",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "date":"December 22, 2017",
+        "image" : "blog-image1.jpg",
+        "altText" : "Blog 1",
+        "linkToArticle" : "https://www.github.com"
+    },
+    {
+        "title": "New creative fashion",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "date":"December 14, 2017",
+        "image" : "blog-image3.jpg",
+        "altText" : "Blog 3",
+        "linkToArticle" : "https://www.github.com"
+    },
+    {
+        "title": "Minimalist design trend in 2018",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "date":"December 10, 2017",
+        "image" : "blog-image4.jpg",
+        "altText" : "Blog 4",
+        "linkToArticle" : "https://www.github.com"
+    }
+]
