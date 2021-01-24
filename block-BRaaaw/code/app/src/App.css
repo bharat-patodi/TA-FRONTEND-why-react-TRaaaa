@@ -1,0 +1,28 @@
+.App {
+}
+
+.all-cards {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 1rem;
+  justify-content: center;
+}
+
+.card {
+  max-width: 300px;
+  text-align: center;
+  border-radius: 0.5rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  background-color: gainsboro;
+  padding: 1rem;
+  color: #2d2d2d;
+}
+
+.active {
+  background-color: #a7f3d0;
+}
+
+.inactive {
+  background-color: #fecaca;
+}
